@@ -19,15 +19,14 @@ The purpose of this repository is to understand the fundamentals of web developm
 ## Repository Structure
 
 This repository is organized topic-wise for better understanding and revision.
-
+```
 web-development-fundamentals/
 |
 |-- 01-html-basics/
 |-- 02-css-basics/
 |-- 03-javascript-basics/
 |-- notes/
-
-
+```
 Each folder contains practice examples related to that topic.
 
 ---
