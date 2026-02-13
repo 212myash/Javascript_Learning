@@ -19,10 +19,3 @@ let isStudent = true;
 console.log("Name:", name);
 console.log("Age:", age);
 console.log("Is Student:", isStudent);
-
-/*
-Output:
-Name: Yash
-Age: 20
-Is Student: true
-*/
