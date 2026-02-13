@@ -1,9 +1,10 @@
-for (let i = 1; i <= 5; i++) {
-    console.log("Number:", i);
+for (let i = 0; i <= 10; i++) {
+    console.log(i);
 }
 
 
-let d =1;
+let d = 1;
+
 while (d <= 10) {
     console.log(d);
     d++;
