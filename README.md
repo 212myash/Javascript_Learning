@@ -84,6 +84,7 @@ console.log("Name:", name);
 console.log("Age:", age);
 console.log("Is Student:", isStudent);
 
+```
 ## Version Control (Git & GitHub)
 
 This repository is also used to practice:
