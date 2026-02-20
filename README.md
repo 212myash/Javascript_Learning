@@ -19,67 +19,57 @@ The purpose of this repository is to understand the fundamentals of web developm
 ## Repository Structure
 
 This repository is organized topic-wise for better understanding and revision.
+
+
 ```
 web-development-fundamentals/
-|
-|-- 01-html-basics/
-|-- 02-css-basics/
-|-- 03-javascript-basics/
-|-- notes/
+│
+├── 01-html-basics/
+├── 02-css-basics/
+├── 03-javascript-basics/
+├── 04-advanced-javascript/
+└── notes/
 ```
-Each folder contains practice examples related to that topic.
+
+Each folder contains practice examples related to the respective topic.
 
 ---
 
-## HTML5 and CSS3 Foundations
+# 01 — HTML5 and CSS3 Foundations
 
-Topics covered:
+### Topics Covered
 
 - HTML document structure
 - Semantic HTML elements
 - Forms and input controls
-- Multimedia basics
+- Multimedia elements
 - CSS fundamentals
 - Selectors and specificity
 - CSS Box Model
 - Positioning and display properties
 - Flexbox basics
-- Responsive design basics
-- Introduction to modern CSS workflow
-
-Practice files include examples of:
-- Basic HTML pages
-- Semantic tags usage
-- Form creation
-- CSS styling and layouts
+- Grid basics
+- Responsive design principles
+- Modern CSS workflow basics
 
 ---
 
-## JavaScript Programming Fundamentals
+# 02 — JavaScript Programming Fundamentals
 
-Topics covered:
+### Topics Covered
 
-- JavaScript syntax and data types
+- JavaScript syntax
 - Variables and scope
+- Data types
 - Operators and expressions
-- Control flow statements (if-else)
-- Loops
+- Control flow statements (if-else, switch)
+- Loops (for, while)
 - Functions and arrow functions
 - Arrays and objects
 - Basic event handling
 - Introduction to browser interaction
 
-Practice files include:
-- Variable examples
-- Operators and calculations
-- Conditional statements
-- Loop programs
-- Function examples
-- Array and object handling
-- Basic DOM interaction
-
 ---
-
 
 ## Example: Variables in JavaScript
 
