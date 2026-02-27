@@ -1,3 +1,4 @@
+// Switch Case in JS
 let day = 1;
 
 switch (day) {
