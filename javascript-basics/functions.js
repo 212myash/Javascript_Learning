@@ -1,3 +1,4 @@
+// Function in JS
 function greet(name){
     return "Hello, " + name + "!";
 }
